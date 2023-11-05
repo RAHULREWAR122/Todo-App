@@ -52,9 +52,6 @@ body{
     flex-direction: column;
     background: #bd8d8d9f;
     
-    /* border: 0px solid transparent;
-    border-bottom: 2px solid white; */
-    /* width: 50%; */
     
 }
 #descrip > input{
@@ -157,8 +154,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* flex-direction: column; */
-    /* background: red; */
 }
 ul{
     justify-content: center;

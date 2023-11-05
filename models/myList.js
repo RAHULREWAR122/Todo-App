@@ -14,7 +14,7 @@ const listSchema = new mongoose.Schema({
    
     dueDate: {
         type: String,
-        required: true,// Make it optional
+        required: true,
       },
 
 
